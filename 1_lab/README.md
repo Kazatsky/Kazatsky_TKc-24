@@ -11,11 +11,11 @@
 - вставлений код / текстовий або числовий результат / інші результати:
 ```python
 from datetime import datetime
-name = "Roman"
+name = "Bohdan"
 
 print(f"{name}) start programming at {datetime.now()}")
 ```
-![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/screenshots/WYrXCThNSbmG.png "Результат виконання програми")
+![alt text](https://github.com/Kazatsky/Kazatsky_TKc-24/raw/main/scr/image.png "Результат виконання програми")
 
 1. Створили перший ноутбук
 ![alt text](https://github.com/RomanBakayev/bakayev-tks24/raw/main/screenshots/cl0a75CKF6HB.png "Мій ноутбук")
