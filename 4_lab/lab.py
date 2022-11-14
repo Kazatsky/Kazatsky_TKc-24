@@ -10,12 +10,12 @@ print(datetime.datetime.now())
 df = pd.DataFrame(
     {
         "Name": [
-            "Smoley, Oleksandr",
-            "Salo, Maxim",
-            "Polulih, Natalia",
+            "Yurchishin, Danilo",
+            "Bakayev, Roman",
+            "Egey, Olecsandr",
         ],
-        "Age": [19, 19, 16],
-        "Sex": ["male", "male", "female"],
+        "Age": [19, 18, 19],
+        "Sex": ["male", "male", "male"],
     }
 )
 
